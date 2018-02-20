@@ -1,0 +1,33 @@
+Using base path: data4
+Running with data: miniTest
+Running with model: model2
+Alignment:
+[#]      | X
+   [#]   | Y
+      [#]| Z
+---------'
+ A  B  C 
+
+Alignment:
+[#]   | X
+   [#]| Y
+------'
+ A  B 
+
+Alignment:
+[#]   | Y
+      | W
+   [#]| Z
+------'
+ B  C 
+
+Alignment:
+[#]   | U
+   [#]| V
+      | W
+------'
+ D  F 
+
+Precision: 1.0
+Recall: 1.0
+AER: 0.0
